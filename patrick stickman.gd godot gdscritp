@@ -1,4 +1,4 @@
-Archivo: res://scripts/Stickman.gdextends Node2Dsignal hit(points)
+ placeholder.gd Archivo: res://scripts/Stickman.gdextends Node2Dsignal hit(points)
 
 @export var points_per_hit: int = 1@export var hit_tween_time: float = 0.10@export var hit_rotation_degrees: float = 8.0@export var hit_scale_factor: float = 1.08
 
