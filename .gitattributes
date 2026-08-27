@@ -1,0 +1,9 @@
+*.gd linguist-language=GDScript
+
+# Opcional: marcar assets grandes como vendored para que no dominen el porcentaje
+assets/** linguist-vendored
+*.png linguist-vendored
+*.jpg linguist-vendored
+*.webp linguist-vendored
+*.wav linguist-vendored
+*.ogg linguist-vendored
