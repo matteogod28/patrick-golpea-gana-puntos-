@@ -19,3 +19,4 @@ Instrucciones rápidas:
 Notas:
 - Si quieres cooldown entre golpes, dime y lo agrego fácil.
 - Puedes cambiar points_per_hit desde el inspector cuando selecciones el nodo Stickman.
+bueno amigo si vez un error dimelo soy matteo mucho gusto 
